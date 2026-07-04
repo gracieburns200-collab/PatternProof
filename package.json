@@ -1,0 +1,11 @@
+{
+  "name": "patternproof-content",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-posts.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.0"
+  }
+}

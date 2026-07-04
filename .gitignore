@@ -1,0 +1,4 @@
+node_modules/
+.env
+content/output/*
+!content/output/.gitkeep
