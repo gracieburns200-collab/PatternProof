@@ -256,7 +256,7 @@ FINAL:
 
   const res = await client.messages.create({
     model: MODEL,
-    max_tokens: 1200,
+    max_tokens: 4096,
     system,
     messages: [
       {
@@ -265,6 +265,11 @@ FINAL:
       },
     ],
   });
+  if (res.stop_reason === "max_tokens") {
+    console.error(
+      `  Warning: ${platform.label} critique response was truncated — output may be incomplete.`
+    );
+  }
   const text = textFrom(res);
   const finalMatch = text.match(/FINAL:\s*([\s\S]*)/i);
   const notesMatch = text.match(/NOTES:\s*([\s\S]*?)(?:\n\s*FINAL:|$)/i);
