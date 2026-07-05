@@ -6,49 +6,75 @@ Delete the bracketed prompts as you replace them.
 
 ## What PatternProof does
 
-[One or two concrete paragraphs. Not a tagline — explain what a person actually
-does with it, day to day. What input do they give it, what do they get back,
-what decision or problem does that solve?]
+PatternProof is a documentation platform with AI that helps survivors of abuse
+build court-ready evidence. A survivor uploads their evidence — screenshots,
+recordings, messages, etc. — and types in their incidents: interactions from
+past and present with the person abusing them. The AI takes all of that and
+generates a single, organized, court-ready summary document that also shows
+the pattern of behavior of the abuser over time, not just isolated incidents.
+That document gives the survivor's lawyer, advocate, and the court full
+context and a clear breakdown of the relationship and the abuse pattern —
+work that otherwise takes an attorney 20-120 hours to piece together by hand.
 
 ## Who it's for
 
-[Be specific: a role, a habit, a recurring frustration. "Everyone" is not an answer.]
+Survivors of domestic abuse who are preparing for legal proceedings (protective
+orders, custody cases, criminal cases), and the lawyers/advocates who represent
+them.
 
 ## The problem / the "before" state
 
-[What was broken, annoying, slow, or risky before this existed? What did people
-do instead (spreadsheets, guesswork, a worse tool, nothing)?]
+Before this, survivors and their attorneys had to manually piece together
+evidence scattered across texts, call logs, photos, emails, and memory —
+without any tool to organize it into a coherent timeline or show the pattern
+of escalation a court needs to see. That manual assembly is exactly the
+20-120 hours of attorney time PatternProof is built to cut down.
 
 ## The personal story (for Reddit especially)
 
-[Reddit posts in content/output/reddit.md will be written as first-person lived
-experience, not marketing copy. This section is the raw material for that — a
-real situation you or an early user were in. Include specific, textured details
-(what went wrong, how it felt, what changed). Generic "I was frustrated with X"
-will read as fake — specifics are what make it read as real.]
+[STILL NEEDED — do not run the generator until this is filled in. Reddit posts
+will be written as first-person lived experience, not marketing copy, and the
+generator is instructed to refuse invented personal details. This must be a
+real situation (yours, a co-founder's, or an actual early user's, used with
+their consent) — not a fabricated abuse narrative. Include what actually
+happened and how it felt, specifically enough that it reads as real. Given
+the subject matter, also confirm: is it safe/appropriate to make this public
+(no details that could identify or endanger a real survivor)?]
 
 ## Key features / capabilities
 
-- [Feature 1 — what it does, why it matters]
-- [Feature 2]
-- [Feature 3]
+- Upload evidence (screenshots, recordings, messages) into one place
+- Log incidents (past and present interactions) in your own words
+- AI generates a single court-ready summary document
+- Document shows the pattern of behavior over time, not just one incident
+- Gives lawyers, advocates, and courts full context in one document
 
-## Proof points (optional but helps credibility)
+## Proof points
 
-[Any real numbers, results, before/after, user quotes, etc. Leave blank if none
-exist yet — do not invent these.]
+- Saves attorneys an estimated 20-120 hours of manual evidence organization per case
 
 ## Brand voice
 
-[e.g. direct and low-hype, technical but approachable, dry humor OK, no
-exclamation points, etc. Whatever is true for PatternProof.]
+[STILL NEEDED — e.g. direct and low-hype, warm but not saccharine, no
+exclamation points, trauma-informed language. Whatever is true for
+PatternProof's voice.]
 
 ## Call to action / link
 
 - Site: https://pattern-proof.tech
-- [Any specific CTA — sign up, try free, join waitlist, etc.]
+- [Any specific CTA — e.g. try it, request access, talk to an advocate first?]
 
 ## Constraints
 
-[Anything the posts must NOT say — unverified claims, features not yet shipped,
-competitor comparisons, etc.]
+- Never invent or embellish specific abuse incidents, quotes, or user stories —
+  only use what's explicitly provided in this brief.
+- Never name, describe, or identify a real abuser or a real survivor
+  (other than a consenting founder/user telling their own story).
+- Do not present the platform as legal advice; it assists documentation, it
+  does not replace a lawyer or advocate.
+- On Reddit specifically: if the post is about the poster's own
+  connection to PatternProof (founder/employee/early user), that connection
+  must be disclosed in the post, not hidden — this is a legal-adjacent,
+  trust-sensitive space and undisclosed promotion there is both against
+  Reddit's rules and a bad look for a product serving survivors.
+- [Add anything else that must not be said or claimed.]
